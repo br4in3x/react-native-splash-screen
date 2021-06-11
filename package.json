@@ -32,7 +32,7 @@
   },
   "homepage": "https://github.com/crazycodeboy/react-native-splash-screen#readme",
   "devDependencies": {
-    "react-native": "^0.63.4",
-    "react-native-windows": "^0.63.14"
+    "react-native": "0.64.1",
+    "react-native-windows": "0.64.6"
   }
 }
